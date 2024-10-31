@@ -1,0 +1,387 @@
+[
+   
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, A-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A+, A-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "A+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A+",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "A+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, A-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A-, O-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A+, B+, AB-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "A+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "A-",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "A-, O-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "B+, B-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "B+, B-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "B+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B+",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "B+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "B+, B-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "B-, O-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A+, B+, AB+, O-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A+, B+, AB-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "B+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "B-",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "B-, O-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "A+, B+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB+",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "A+, B+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A-, B-, AB-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A+, B+, AB-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "A+, B+, AB+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "A+, B+, AB-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "A+, B+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "AB-",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "A-, B-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "O+, O-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "B+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "B+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O+",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A+, B+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "O+",
+        "PossibleChildBloodTypes": "O+, O-",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "O-",
+        "PossibleChildBloodTypes": "O-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "A+",
+        "PossibleChildBloodTypes": "A+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "A-",
+        "PossibleChildBloodTypes": "A-, O-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "B+",
+        "PossibleChildBloodTypes": "B+, O+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "B-",
+        "PossibleChildBloodTypes": "B-, O-",
+        "rhIncompatibilityRisk": "No"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "AB+",
+        "PossibleChildBloodTypes": "A+, B+",
+        "rhIncompatibilityRisk": "Yes (if child is Rh+)"
+    },
+    {
+        "MotherBloodType": "O-",
+        "FatherBloodType": "AB-",
+        "PossibleChildBloodTypes": "A-, B-",
+        "rhIncompatibilityRisk": "No"
+    }
+]
